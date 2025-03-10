@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "C:\Users\24526\Desktop\285 AI\final project\Multi-GNN-main\Multi-GNN-main\main.py", line 41, in <module>
-    main()
-  File "C:\Users\24526\Desktop\285 AI\final project\Multi-GNN-main\Multi-GNN-main\main.py", line 38, in main
-    infer_gnn(tr_data, val_data, te_data, tr_inds, val_inds, te_inds, args, data_config)
-  File "C:\Users\24526\Desktop\285 AI\final project\Multi-GNN-main\Multi-GNN-main\inference.py", line 61, in infer_gnn
-    if not (args.avg_tps or args.finetune):
-AttributeError: 'Namespace' object has no attribute 'avg_tps'
