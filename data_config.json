@@ -1,0 +1,7 @@
+{
+    "paths": {
+      "aml_data": ".", 
+      "model_to_load": "./bestmodel",
+      "model_to_save": "."
+    }
+  }

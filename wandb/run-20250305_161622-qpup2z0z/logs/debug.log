@@ -1,0 +1,29 @@
+2025-03-05 16:16:22,659 INFO    MainThread:8400 [wandb_setup.py:_flush():67] Current SDK version is 0.19.8
+2025-03-05 16:16:22,659 INFO    MainThread:8400 [wandb_setup.py:_flush():67] Configure stats pid to 8400
+2025-03-05 16:16:22,659 INFO    MainThread:8400 [wandb_setup.py:_flush():67] Loading settings from C:\Users\24526\.config\wandb\settings
+2025-03-05 16:16:22,659 INFO    MainThread:8400 [wandb_setup.py:_flush():67] Loading settings from C:\Users\24526\Desktop\285 AI\final project\Multi-GNN-main\Multi-GNN-main\wandb\settings
+2025-03-05 16:16:22,659 INFO    MainThread:8400 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-05 16:16:22,659 INFO    MainThread:8400 [wandb_init.py:setup_run_log_directory():647] Logging user logs to C:\Users\24526\Desktop\285 AI\final project\Multi-GNN-main\Multi-GNN-main\wandb\run-20250305_161622-qpup2z0z\logs\debug.log
+2025-03-05 16:16:22,660 INFO    MainThread:8400 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to C:\Users\24526\Desktop\285 AI\final project\Multi-GNN-main\Multi-GNN-main\wandb\run-20250305_161622-qpup2z0z\logs\debug-internal.log
+2025-03-05 16:16:22,660 INFO    MainThread:8400 [wandb_init.py:init():761] calling init triggers
+2025-03-05 16:16:22,660 INFO    MainThread:8400 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'epochs': 100, 'batch_size': 8192, 'model': 'gin', 'data': 'HI-Small', 'num_neighbors': [100, 100], 'lr': 0.006213266113989207, 'n_hidden': 66.00315515631006, 'n_gnn_layers': 2, 'loss': 'ce', 'w_ce1': 1.0000182882773443, 'w_ce2': 6.275014431494497, 'dropout': 0.00983468338330501, 'final_dropout': 0.10527690625126304, 'n_heads': None, '_wandb': {}}
+2025-03-05 16:16:22,660 INFO    MainThread:8400 [wandb_init.py:init():784] starting backend
+2025-03-05 16:16:22,660 INFO    MainThread:8400 [wandb_init.py:init():788] sending inform_init request
+2025-03-05 16:16:22,684 INFO    MainThread:8400 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-03-05 16:16:22,684 INFO    MainThread:8400 [wandb_init.py:init():798] backend started and connected
+2025-03-05 16:16:22,685 INFO    MainThread:8400 [wandb_init.py:init():891] updated telemetry
+2025-03-05 16:16:22,687 INFO    MainThread:8400 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-05 16:16:23,113 INFO    MainThread:8400 [wandb_init.py:init():990] starting run threads in backend
+2025-03-05 16:16:23,314 INFO    MainThread:8400 [wandb_run.py:_console_start():2375] atexit reg
+2025-03-05 16:16:23,314 INFO    MainThread:8400 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-05 16:16:23,314 INFO    MainThread:8400 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-05 16:16:23,314 INFO    MainThread:8400 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-03-05 16:16:23,317 INFO    MainThread:8400 [wandb_init.py:init():1032] run started, returning control to user process
+2025-03-05 21:31:35,922 INFO    MainThread:8400 [wandb_run.py:_finish():2112] finishing run zcahwz1-ucla/your_proj_name/qpup2z0z
+2025-03-05 21:31:35,922 INFO    MainThread:8400 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-03-05 21:31:35,923 INFO    MainThread:8400 [wandb_run.py:_restore():2322] restore
+2025-03-05 21:31:35,923 INFO    MainThread:8400 [wandb_run.py:_restore():2328] restore done
+2025-03-05 21:31:36,644 INFO    MainThread:8400 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-03-05 21:31:36,647 INFO    MainThread:8400 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-03-05 21:31:36,649 INFO    MainThread:8400 [wandb_run.py:_footer_sync_info():3917] logging synced files

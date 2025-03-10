@@ -1,0 +1,22 @@
+2025-03-05 22:05:19,767 INFO    MainThread:26864 [wandb_setup.py:_flush():67] Current SDK version is 0.19.8
+2025-03-05 22:05:19,767 INFO    MainThread:26864 [wandb_setup.py:_flush():67] Configure stats pid to 26864
+2025-03-05 22:05:19,767 INFO    MainThread:26864 [wandb_setup.py:_flush():67] Loading settings from C:\Users\24526\.config\wandb\settings
+2025-03-05 22:05:19,767 INFO    MainThread:26864 [wandb_setup.py:_flush():67] Loading settings from C:\Users\24526\Desktop\285 AI\final project\Multi-GNN-main\Multi-GNN-main\wandb\settings
+2025-03-05 22:05:19,767 INFO    MainThread:26864 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-05 22:05:19,767 INFO    MainThread:26864 [wandb_init.py:setup_run_log_directory():647] Logging user logs to C:\Users\24526\Desktop\285 AI\final project\Multi-GNN-main\Multi-GNN-main\wandb\run-20250305_220519-yf1dm1zg\logs\debug.log
+2025-03-05 22:05:19,771 INFO    MainThread:26864 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to C:\Users\24526\Desktop\285 AI\final project\Multi-GNN-main\Multi-GNN-main\wandb\run-20250305_220519-yf1dm1zg\logs\debug-internal.log
+2025-03-05 22:05:19,771 INFO    MainThread:26864 [wandb_init.py:init():761] calling init triggers
+2025-03-05 22:05:19,771 INFO    MainThread:26864 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'epochs': 100, 'batch_size': 8192, 'model': 'gin', 'data': 'HI-Small', 'num_neighbors': [100, 100], 'lr': 0.006213266113989207, 'n_hidden': 66.00315515631006, 'n_gnn_layers': 2, 'loss': 'ce', 'w_ce1': 1.0000182882773443, 'w_ce2': 6.275014431494497, 'dropout': 0.00983468338330501, 'final_dropout': 0.10527690625126304, 'n_heads': None, '_wandb': {}}
+2025-03-05 22:05:19,771 INFO    MainThread:26864 [wandb_init.py:init():784] starting backend
+2025-03-05 22:05:19,771 INFO    MainThread:26864 [wandb_init.py:init():788] sending inform_init request
+2025-03-05 22:05:19,787 INFO    MainThread:26864 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn, using: spawn
+2025-03-05 22:05:19,788 INFO    MainThread:26864 [wandb_init.py:init():798] backend started and connected
+2025-03-05 22:05:19,788 INFO    MainThread:26864 [wandb_init.py:init():891] updated telemetry
+2025-03-05 22:05:19,789 INFO    MainThread:26864 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-05 22:05:20,167 INFO    MainThread:26864 [wandb_init.py:init():990] starting run threads in backend
+2025-03-05 22:05:20,407 INFO    MainThread:26864 [wandb_run.py:_console_start():2375] atexit reg
+2025-03-05 22:05:20,408 INFO    MainThread:26864 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-05 22:05:20,408 INFO    MainThread:26864 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-05 22:05:20,408 INFO    MainThread:26864 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-03-05 22:05:20,411 INFO    MainThread:26864 [wandb_init.py:init():1032] run started, returning control to user process

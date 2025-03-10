@@ -1,0 +1,53 @@
+{
+  "os":  "Windows-10-10.0.26100-SP0",
+  "python":  "CPython 3.9.21",
+  "startedAt":  "2025-03-10T03:36:08.368139Z",
+  "args":  [
+    "--inference",
+    "--data",
+    "./HI-Small",
+    "--model",
+    "gin",
+    "--emlps",
+    "--reverse_mp",
+    "--ego",
+    "--ports"
+  ],
+  "program":  "C:\\Users\\24526\\Desktop\\285 AI\\final project\\Multi-GNN-main\\Multi-GNN-main\\main.py",
+  "codePath":  "main.py",
+  "git":  {
+    "remote":  "https://github.com/zcahwz1/285-Group3-Project.git",
+    "commit":  "aa670520de785fcbc5bdc9d4e72fe7da72a17e3d"
+  },
+  "email":  "zcahwz1@g.ucla.edu",
+  "root":  "C:\\Users\\24526\\Desktop\\285 AI\\final project\\Multi-GNN-main\\Multi-GNN-main",
+  "host":  "ZZZ",
+  "executable":  "C:\\Users\\24526\\anaconda3\\envs\\multignn\\python.exe",
+  "codePathLocal":  "main.py",
+  "cpu_count":  14,
+  "cpu_count_logical":  20,
+  "gpu":  "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "376218705920",
+      "used":  "314431320064"
+    }
+  },
+  "memory":  {
+    "total":  "68501430272"
+  },
+  "cpu":  {
+    "count":  14,
+    "countLogical":  20
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 4060 Laptop GPU",
+      "memoryTotal":  "8585740288",
+      "cudaCores":  3072,
+      "architecture":  "Ada"
+    }
+  ],
+  "cudaVersion":  "12.6"
+}
