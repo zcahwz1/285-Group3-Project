@@ -25,4 +25,4 @@ python main.py --data Small_HI --model gin --emlps
 ```
 
 ## Result
-The best model is saved in folder `bestmodel`. The test F1 score is 0.6423. The training log is saved in folder `logs`.
+The best model is saved in folder `bestmodel`. The test F1 score is 0.6423. The training log is saved in folder `wandb`.
