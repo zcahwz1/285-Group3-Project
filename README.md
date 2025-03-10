@@ -1,5 +1,5 @@
-# GNN Model
-This repository contains the GIN models needed to run the GNN for Anti-Money Laundering. For this experiment we refer to the following two papers: [Provably Powerful Graph Neural Networks for Directed Multigraphs](https://arxiv.org/abs/2306.11586) [AAAI 2024] and [Realistic Synthetic Financial Transactions for Anti-Money Laundering Models](https://arxiv.org/abs/2306.16424) [NeurIPS 2023].
+# GNN Model for Anti-Money Laundering (AML)
+This repository contains the GIN models needed to run the GNN for Anti-Money Laundering. For this experiment, we refer to the following two papers: [Provably Powerful Graph Neural Networks for Directed Multigraphs](https://arxiv.org/abs/2306.11586) [AAAI 2024] and [Realistic Synthetic Financial Transactions for Anti-Money Laundering Models](https://arxiv.org/abs/2306.16424) [NeurIPS 2023].
 
 ## Setup
 To use the repository, you first need to install the conda environment via 
