@@ -1,1 +1,1 @@
-## Please see the readme file in GNN_Model and Deepseek_Model
+## Please see the readme file in GNN_Model and Deepseek_Model folder.
